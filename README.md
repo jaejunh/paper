@@ -28,3 +28,7 @@ Zhiting Hu, Poyao Huang, Yuntian Deng, Yingkai Gao, Eric P. XingACL2015
 [6] [ Topical Word Embeddings ]
 (https://pdfs.semanticscholar.org/9a0a/f9e48aad89512ce3e24b6a1853ed3d5d9142.pdf?_ga=1.81026015.939595789.1480901077)
 Yang Liu, Zhiyuan Liu, Tat-Seng Chua, Maosong SunAAAI2015
+
+[7] [ Distributed Representations of Sentences and Documents ]
+{https://pdfs.semanticscholar.org/f527/bcfb09f32e6a4a8afc0b37504941c1ba2cee.pdf?_ga=1.74331482.939595789.1480901077)
+Quoc V. Le, Tomas MikolovICML2014
