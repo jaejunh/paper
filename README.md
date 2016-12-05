@@ -28,32 +28,44 @@ Zhiting Hu, Poyao Huang, Yuntian Deng, Yingkai Gao, Eric P. XingACL2015
 (https://pdfs.semanticscholar.org/9a0a/f9e48aad89512ce3e24b6a1853ed3d5d9142.pdf?_ga=1.81026015.939595789.1480901077)
 Yang Liu, Zhiyuan Liu, Tat-Seng Chua, Maosong SunAAAI2015
 
+[7] [ Joint Embedding of Hierarchical Categories and Entities for Concept Categorization and Dataless Classification ]
+(https://arxiv.org/pdf/1607.07956v1.pdf)
+Yuezhang Li, Ronghuo Zheng, Tian Tian, Zhiting Hu, Rahul Iyer, Katia Sycara
+
+[8] [ DeepWalk: online learning of social representations ]
+(https://pdfs.semanticscholar.org/1a67/622ca58aa851afe36ad6c6e78f9fb9d691d2.pdf?_ga=1.181608175.939595789.1480901077)
+Bryan Perozzi, Rami Al-Rfou', Steven SkienaKDD2014
 
 ## Word2Vec & FastText (Mikolov) Related
 
-[7] [ Distributed Representations of Sentences and Documents ]
+[1] [ Distributed Representations of Sentences and Documents ]
 (https://pdfs.semanticscholar.org/f527/bcfb09f32e6a4a8afc0b37504941c1ba2cee.pdf?_ga=1.74331482.939595789.1480901077)
 Quoc V. Le, Tomas MikolovICML2014
 
-[8] [ Efficient Estimation of Word Representations in Vector Space ]
+[2] [ Efficient Estimation of Word Representations in Vector Space ]
 (https://arxiv.org/pdf/1301.3781.pdf)
 Tomas Mikolov, Kai Chen, Gregory S. Corrado, Jeffrey DeanArXiv2013
 
-[9] [Feature hashing for large scale multitask learning ]
+[3] [Feature hashing for large scale multitask learning ]
 (https://pdfs.semanticscholar.org/00bb/fde6af97ce5efcf86b3401d265d42a95603d.pdf?_ga=1.181804399.939595789.1480901077)
 Kilian Q. Weinberger, Anirban Dasgupta, John Langford, Alexander J. Smola, Josh AttenbergICML2009
 
-[10] [ Strategies for training large scale neural network language models ]
+[4] [ Strategies for training large scale neural network language models ]
 (https://pdfs.semanticscholar.org/cb45/e9217fe323fbc199d820e7735488fca2a9b3.pdf?_ga=1.140178939.939595789.1480901077)
 Tomas Mikolov, Anoop Deoras, Daniel Povey, Lukás Burget, Jan CernockýASRU2011
 
-[11] [ Enriching Word Vectors with Subword Information ]
+[5] [ Enriching Word Vectors with Subword Information ]
 (https://arxiv.org/pdf/1607.04606.pdf)
 Piotr Bojanowski, Edouard Grave, Armand Joulin, Tomas MikolovArXiv2016
 
-[12] [ Bag of Tricks for Efficient Text Classification ]
+[6] [ Bag of Tricks for Efficient Text Classification ]
 (https://arxiv.org/pdf/1607.01759.pdf)
 Armand Joulin, Edouard Grave, Piotr Bojanowski, Tomas MikolovArXiv2016
+
+## Input Response
+[1] [ GENERATING LONG AND DIVERSE RESPONSES WITH NEURAL CONVERSATION MODELS ]
+(https://openreview.net/pdf?id=HJDdiT9gl)
+Louis Shao, Stephan Gouws, Denny Britz, Anna Goldie, Brian Strope, Ray Kurzweil
 
 ## Etc
 
@@ -68,4 +80,6 @@ MIT lecture
 [C] [ 효과적인 모델 기반 안드로이드 GUI테스팅을 위한 GUI 상태 비교 기법 ]
 (https://www.google.co.kr/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwjKz86i-9vQAhXGOJQKHUvyCgwQFgghMAA&url=http%3A%2F%2Fkiise.or.kr%2Fe_journal%2F2015%2F11%2FJOK%2Fpdf%2F10.pdf&usg=AFQjCNGk3aGrxWcsxc2wQRQl0CfQvvPZDA&sig2=4CemezTRdgD2-NhnW0P6Iw)
 A GUI State Comparison Technique for Effective Model-based Android GUI Testing, 백영민 저술 -2015
+
+
 
