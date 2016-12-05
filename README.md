@@ -64,6 +64,7 @@ Danai Koutra, Ankur Parikh, Aaditya Ramdas, Jing Xiang, Graph Similarity Problem
 [B] [ Lecture 7: Graphical models and belief propagation ]
 (https://www.google.co.kr/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwiJ1-zf-tvQAhUElZQKHWStDvYQFgggMAA&url=http%3A%2F%2F6.869.csail.mit.edu%2Ffa13%2Flectures%2FslideNotesCh7rev.pdf&usg=AFQjCNGN9epb0nB6iz50BLDBMaBn3P8KYw&sig2=XeNMadrX-kGO6BL5lrYDjg)
 MIT lecture
-
-
+[C] [ 효과적인 모델 기반 안드로이드 GUI테스팅을 위한 GUI 상태 비교 기법  - A GUI State Comparison Technique
+for Effective Model-based Android GUI Testing ]
+(https://www.google.co.kr/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwjKz86i-9vQAhXGOJQKHUvyCgwQFgghMAA&url=http%3A%2F%2Fkiise.or.kr%2Fe_journal%2F2015%2F11%2FJOK%2Fpdf%2F10.pdf&usg=AFQjCNGk3aGrxWcsxc2wQRQl0CfQvvPZDA&sig2=4CemezTRdgD2-NhnW0P6Iw)
 
