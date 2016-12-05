@@ -40,3 +40,15 @@ Tomas Mikolov, Kai Chen, Gregory S. Corrado, Jeffrey DeanArXiv2013
 [9] [Feature hashing for large scale multitask learning ]
 (https://pdfs.semanticscholar.org/00bb/fde6af97ce5efcf86b3401d265d42a95603d.pdf?_ga=1.181804399.939595789.1480901077)
 Kilian Q. Weinberger, Anirban Dasgupta, John Langford, Alexander J. Smola, Josh AttenbergICML2009
+
+[10] [ Strategies for training large scale neural network language models ]
+(https://pdfs.semanticscholar.org/cb45/e9217fe323fbc199d820e7735488fca2a9b3.pdf?_ga=1.140178939.939595789.1480901077)
+Tomas Mikolov, Anoop Deoras, Daniel Povey, Lukás Burget, Jan CernockýASRU2011
+
+[11] [ Enriching Word Vectors with Subword Information ]
+(https://arxiv.org/pdf/1607.04606.pdf)
+Piotr Bojanowski, Edouard Grave, Armand Joulin, Tomas MikolovArXiv2016
+
+[12] [ Bag of Tricks for Efficient Text Classification ]
+(https://arxiv.org/pdf/1607.01759.pdf)
+Armand Joulin, Edouard Grave, Piotr Bojanowski, Tomas MikolovArXiv2016
