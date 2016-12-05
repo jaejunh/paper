@@ -1,7 +1,7 @@
 # paper
 
-1. An Overview of Similarity Measures for Clustering XML Documents
-https://www.google.co.kr/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwi50OjP8dvQAhVItJQKHXDYAXYQFggdMAA&url=http%3A%2F%2Fciteseerx.ist.psu.edu%2Fviewdoc%2Fdownload%3Fdoi%3D10.1.1.132.5841%26rep%3Drep1%26type%3Dpdf&usg=AFQjCNGf6P6lLm3amGBp9WyzsjW4P0RSgA&sig2=tPq1ud07Y9M6xUMUEKOJtQ
+[1]  [ An Overview of Similarity Measures for Clustering XML Documents ] 
+(https://www.google.co.kr/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwi50OjP8dvQAhVItJQKHXDYAXYQFggdMAA&url=http%3A%2F%2Fciteseerx.ist.psu.edu%2Fviewdoc%2Fdownload%3Fdoi%3D10.1.1.132.5841%26rep%3Drep1%26type%3Dpdf&usg=AFQjCNGf6P6lLm3amGBp9WyzsjW4P0RSgA&sig2=tPq1ud07Y9M6xUMUEKOJtQ)
 
 2. Building Program Vector Representations for Deep Learning
 
