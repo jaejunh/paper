@@ -26,5 +26,5 @@ Pengfei Liu, Xipeng Qiu, Xuanjing HuangIJCAI2015
 Zhiting Hu, Poyao Huang, Yuntian Deng, Yingkai Gao, Eric P. XingACL2015
 
 [6] [ Topical Word Embeddings ]
-(https://www.semanticscholar.org/paper/Topical-Word-Embeddings-Liu-Liu/6363cfe79b33d66deeeba0e68e89f15b3e1e657f)
+(https://pdfs.semanticscholar.org/9a0a/f9e48aad89512ce3e24b6a1853ed3d5d9142.pdf?_ga=1.81026015.939595789.1480901077)
 Yang Liu, Zhiyuan Liu, Tat-Seng Chua, Maosong SunAAAI2015
