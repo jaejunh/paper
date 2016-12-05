@@ -54,3 +54,16 @@ Piotr Bojanowski, Edouard Grave, Armand Joulin, Tomas MikolovArXiv2016
 [12] [ Bag of Tricks for Efficient Text Classification ]
 (https://arxiv.org/pdf/1607.01759.pdf)
 Armand Joulin, Edouard Grave, Piotr Bojanowski, Tomas MikolovArXiv2016
+
+## Etc
+
+[A] [ Algorithms for Graph Similarity and Subgraph Matching ]
+(https://pdfs.semanticscholar.org/5055/1518a193ffe3f3155368b43ba27ebc9c194b.pdf?_ga=1.178058861.939595789.1480901077)
+Danai Koutra, Ankur Parikh, Aaditya Ramdas, Jing Xiang, Graph Similarity Problem, Problem2011
+
+[B] [ Lecture 7: Graphical models and belief propagation ]
+(https://www.google.co.kr/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwiJ1-zf-tvQAhUElZQKHWStDvYQFgggMAA&url=http%3A%2F%2F6.869.csail.mit.edu%2Ffa13%2Flectures%2FslideNotesCh7rev.pdf&usg=AFQjCNGN9epb0nB6iz50BLDBMaBn3P8KYw&sig2=XeNMadrX-kGO6BL5lrYDjg)
+MIT lecture
+
+
+
