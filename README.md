@@ -30,5 +30,13 @@ Zhiting Hu, Poyao Huang, Yuntian Deng, Yingkai Gao, Eric P. XingACL2015
 Yang Liu, Zhiyuan Liu, Tat-Seng Chua, Maosong SunAAAI2015
 
 [7] [ Distributed Representations of Sentences and Documents ]
-{https://pdfs.semanticscholar.org/f527/bcfb09f32e6a4a8afc0b37504941c1ba2cee.pdf?_ga=1.74331482.939595789.1480901077)
+(https://pdfs.semanticscholar.org/f527/bcfb09f32e6a4a8afc0b37504941c1ba2cee.pdf?_ga=1.74331482.939595789.1480901077)
 Quoc V. Le, Tomas MikolovICML2014
+
+[8] [ Efficient Estimation of Word Representations in Vector Space ]
+(https://arxiv.org/pdf/1301.3781.pdf)
+Tomas Mikolov, Kai Chen, Gregory S. Corrado, Jeffrey DeanArXiv2013
+
+[9] [Feature hashing for large scale multitask learning ]
+(https://pdfs.semanticscholar.org/00bb/fde6af97ce5efcf86b3401d265d42a95603d.pdf?_ga=1.181804399.939595789.1480901077)
+Kilian Q. Weinberger, Anirban Dasgupta, John Langford, Alexander J. Smola, Josh AttenbergICML2009
