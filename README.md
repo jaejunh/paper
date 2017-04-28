@@ -81,5 +81,10 @@ MIT lecture
 (https://www.google.co.kr/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwjKz86i-9vQAhXGOJQKHUvyCgwQFgghMAA&url=http%3A%2F%2Fkiise.or.kr%2Fe_journal%2F2015%2F11%2FJOK%2Fpdf%2F10.pdf&usg=AFQjCNGk3aGrxWcsxc2wQRQl0CfQvvPZDA&sig2=4CemezTRdgD2-NhnW0P6Iw)
 A GUI State Comparison Technique for Effective Model-based Android GUI Testing, 백영민 저술 -2015
 
+[D] [ Bounding Box를  효과적으로 만드는 방법 ]
+(http://vision.stanford.edu/pdf/bbox_submission.pdf)
 
+Crowdsourcing Annotations for Visual Object Detection
+Hao Su, Jia Deng, Li Fei-Fei
+Computer Science Department, Stanford University
 
